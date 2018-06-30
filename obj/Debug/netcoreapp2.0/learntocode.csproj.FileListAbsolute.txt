@@ -1,0 +1,11 @@
+C:\dev\learntocode\bin\Debug\netcoreapp2.0\learntocode.deps.json
+C:\dev\learntocode\bin\Debug\netcoreapp2.0\learntocode.runtimeconfig.json
+C:\dev\learntocode\bin\Debug\netcoreapp2.0\learntocode.runtimeconfig.dev.json
+C:\dev\learntocode\bin\Debug\netcoreapp2.0\learntocode.dll
+C:\dev\learntocode\bin\Debug\netcoreapp2.0\learntocode.pdb
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.csprojAssemblyReference.cache
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.csproj.CoreCompileInputs.cache
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.AssemblyInfoInputs.cache
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.AssemblyInfo.cs
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.dll
+C:\dev\learntocode\obj\Debug\netcoreapp2.0\learntocode.pdb

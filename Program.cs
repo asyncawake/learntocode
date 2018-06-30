@@ -13,7 +13,10 @@ namespace learntocode
                 {
                     Console.WriteLine("This one is four!");
                 }
-                Console.WriteLine(i);
+                else
+                {
+                    Console.WriteLine(i);
+                }
             }
 
             // Random rand = new Random();
